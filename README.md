@@ -26,7 +26,7 @@ This repository is organized into the following main sections:
 - **`Threat Hunting/`**  
   Custom Threat hunting queries.
 
-- **`Intel/`**  
+- **`Intelligence/`**  
   Collection of IOCs (e.g., suspicious IPs, domains, hashes).
 
 ---
