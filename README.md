@@ -17,16 +17,16 @@ The main objectives of this lab are:
 
 This repository is organized into the following main sections:
 
-- **`docs/`**  
+- **`Documentation/`**  
   Basic documentation and reports, including an overview of threat intelligence methods and progress.
 
-- **`detections/`**  
+- **`Detections/`**  
   Simple detection rules (e.g., Sigma, LogScale).
 
 - **`Threat Hunting/`**  
   Custom Threat hunting queries.
 
-- **`intel/`**  
+- **`Intel/`**  
   Collection of IOCs (e.g., suspicious IPs, domains, hashes).
 
 ---
